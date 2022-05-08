@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 ## Projects:
 
 #### 🔭 Curiosity's View
-<a href ="https://curiosityview.netlify.app/" target="_blank"><img src= "https://user-images.githubusercontent.com/102616304/167278808-f288344c-1443-4c88-97f0-ecff2ea57d70.gif" alt="curiosity's view gif" width="250px"></a>
-
+<a href ="https://curiosityview.netlify.app/" target="_blank"><img src= "https://user-images.githubusercontent.com/102616304/167310518-3b19187c-328b-4adf-914f-344a77942c5f.gif" width="250px"></a>
