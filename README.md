@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...Javascript
+- 🌱 I’m currently learning Javascript
 - ✉ Reach out: garcia.a.melody@gmail.com
 - 😄 Pronouns: They/She
 - ⚡ Fun fact: I'm obssesed with tactical RPG games
