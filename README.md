@@ -9,7 +9,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: They/She
 - ⚡ Fun fact: I'm obssesed with tactical RPG games
 
-![0](https://user-images.githubusercontent.com/102616304/167270073-ca3a3f24-5acc-4625-a8e0-56d04dd5085d.png)
-
-(under construction)
 
