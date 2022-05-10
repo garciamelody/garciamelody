@@ -2,8 +2,6 @@
 
 ### Hi there, I'm Melody 👋
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning Javascript
 - ✉ Reach out: garcia.a.melody@gmail.com
 - 😄 Pronouns: They/She
