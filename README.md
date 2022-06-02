@@ -7,9 +7,6 @@
 - 😄 Pronouns: They/She
 - ⚡ Fun fact: tactical RPG games are my favorite
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garciamelody&hide_border=true&theme=tokyonight_duo">
-</div>
 
 ## Projects:
 
