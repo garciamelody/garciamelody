@@ -2,7 +2,6 @@
 
 ### Hi there, I'm Melody 👋
 
-- 🌱 I’m currently learning Javascript
 - ✉ Reach out: garcia.a.melody@gmail.com
 - 😄 Pronouns: They/She
 - ⚡ Fun fact: tactical RPG games are my favorite
