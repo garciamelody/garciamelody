@@ -7,7 +7,3 @@
 - ⚡ Fun fact: tactical RPG games are my favorite
 
 
-## Projects:
-
-#### 🔭 Curiosity's View
-<a href ="https://curiosityview.netlify.app/" target="_blank"><img src= "https://user-images.githubusercontent.com/102616304/167310518-3b19187c-328b-4adf-914f-344a77942c5f.gif" width="250px"></a>
