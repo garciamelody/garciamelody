@@ -3,7 +3,7 @@
 ### Hi there, I'm Melody 👋
 
 - ✉ Reach out: garcia.a.melody@gmail.com
-- 😄 Pronouns: They/She
+- 😄 Pronouns: They/Them/She/Her
 - ⚡ Fun fact: tactical RPG games are my favorite
 
 
