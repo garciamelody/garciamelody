@@ -3,7 +3,7 @@
 ### Hi there, I'm Melody 👋
 - 😄 Pronouns: They/Them/She/Her
 - :open_file_folder: Check out my [portfolio](https://melodygarcia.netlify.app/)
-- ⚡ Fun fact: tactical RPG games are my favorite
+- ⚡ On my free time I love trying new snacks from around the world.
 
 
 ### Skills
