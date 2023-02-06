@@ -1,9 +1,9 @@
 <img width="1584" alt="techbanner" src="https://user-images.githubusercontent.com/102616304/167268913-1b1db13b-0059-49e9-bcdc-72c06752739a.png">
 
-### Hi there, I'm Melody👋
+### Hi there, I'm Melody! 👋
 (they/them/she/her)
-- :open_file_folder: Check out my [portfolio](https://melodygarcia.netlify.app/)
-- ⚡ In my free time I love trying new snacks from around the world.
+- :open_file_folder: Check out my [portfolio](https://melodygarcia.netlify.app/).
+- ⚡ In my free time, I love trying new snacks from around the world.
 
 
 ### Skills
